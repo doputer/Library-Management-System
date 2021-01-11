@@ -38,4 +38,8 @@ public:
 	afx_msg void OnButtonLogin();
 	afx_msg void OnButtonAdmin();
 	afx_msg void OnButtonSignup();
+	afx_msg void OnButtonLogin2();
+	CString m_strID;
+	CString m_strPW;
+	CButton m_rUser;
 };
