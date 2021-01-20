@@ -4,7 +4,7 @@
 
 기능 정의
 ---
-[![이미지]()]()
+![Functional Specification](https://user-images.githubusercontent.com/26927792/105148819-27e3a200-5b46-11eb-8ea5-5de02b6f8a15.png)
 
 개발 환경
 ---
